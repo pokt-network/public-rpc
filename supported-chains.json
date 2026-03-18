@@ -332,8 +332,6 @@
       "protocol": "radix",
       "url": "https://radix.api.pocket.network",
       "network": "mainnet",
-      "status": "inactive",
-      "notes": "No active suppliers. Gateway reports json_rpc type but methods unconfirmed. Revisit when suppliers stake."
     },
     {
       "name": "Router",
