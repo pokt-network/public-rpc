@@ -331,7 +331,7 @@
       "slug": "radix",
       "protocol": "radix",
       "url": "https://radix.api.pocket.network",
-      "network": "mainnet",
+      "network": "mainnet"
     },
     {
       "name": "Router",
