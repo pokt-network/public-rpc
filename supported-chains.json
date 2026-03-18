@@ -1,0 +1,453 @@
+{
+  "$schema": "./supported-chains.schema.json",
+  "version": "1.0.0",
+  "updated_at": "2026-03-17",
+  "gateway_base_url": "https://api.pocket.network",
+  "chains": [
+    {
+      "name": "Akash",
+      "slug": "akash",
+      "protocol": "cosmos",
+      "url": "https://akash.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Arbitrum",
+      "slug": "arb-one",
+      "protocol": "evm",
+      "url": "https://arb-one.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Arbitrum Sepolia",
+      "slug": "arb-sepolia-testnet",
+      "protocol": "evm",
+      "url": "https://arb-sepolia-testnet.api.pocket.network",
+      "network": "testnet"
+    },
+    {
+      "name": "AtomOne",
+      "slug": "atomone",
+      "protocol": "cosmos",
+      "url": "https://atomone.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Avalanche (C-Chain)",
+      "slug": "avax",
+      "protocol": "evm",
+      "url": "https://avax.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Base",
+      "slug": "base",
+      "protocol": "evm",
+      "url": "https://base.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Base Sepolia",
+      "slug": "base-sepolia-testnet",
+      "protocol": "evm",
+      "url": "https://base-sepolia-testnet.api.pocket.network",
+      "network": "testnet"
+    },
+    {
+      "name": "Berachain",
+      "slug": "bera",
+      "protocol": "evm",
+      "url": "https://bera.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Blast",
+      "slug": "blast",
+      "protocol": "evm",
+      "url": "https://blast.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "BNB",
+      "slug": "bsc",
+      "protocol": "evm",
+      "url": "https://bsc.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Boba",
+      "slug": "boba",
+      "protocol": "evm",
+      "url": "https://boba.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Celo",
+      "slug": "celo",
+      "protocol": "evm",
+      "url": "https://celo.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Cheqd",
+      "slug": "cheqd",
+      "protocol": "cosmos",
+      "url": "https://cheqd.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Chihuahua",
+      "slug": "chihuahua",
+      "protocol": "cosmos",
+      "url": "https://chihuahua.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Ethereum",
+      "slug": "eth",
+      "protocol": "evm",
+      "url": "https://eth.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Ethereum Sepolia",
+      "slug": "eth-sepolia-testnet",
+      "protocol": "evm",
+      "url": "https://eth-sepolia-testnet.api.pocket.network",
+      "network": "testnet"
+    },
+    {
+      "name": "Fantom",
+      "slug": "fantom",
+      "protocol": "evm",
+      "url": "https://fantom.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Fetch",
+      "slug": "fetch",
+      "protocol": "cosmos",
+      "url": "https://fetch.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Fraxtal",
+      "slug": "fraxtal",
+      "protocol": "evm",
+      "url": "https://fraxtal.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Fuse",
+      "slug": "fuse",
+      "protocol": "evm",
+      "url": "https://fuse.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "GIWA Sepolia",
+      "slug": "giwa-sepolia-testnet",
+      "protocol": "evm",
+      "url": "https://giwa-sepolia-testnet.api.pocket.network",
+      "network": "testnet"
+    },
+    {
+      "name": "Gnosis",
+      "slug": "gnosis",
+      "protocol": "evm",
+      "url": "https://gnosis.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Harmony",
+      "slug": "harmony",
+      "protocol": "evm",
+      "url": "https://harmony.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Hyperliquid",
+      "slug": "hyperliquid",
+      "protocol": "evm",
+      "url": "https://hyperliquid.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Ink",
+      "slug": "ink",
+      "protocol": "evm",
+      "url": "https://ink.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "IoTeX",
+      "slug": "iotex",
+      "protocol": "evm",
+      "url": "https://iotex.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Jackal",
+      "slug": "jackal",
+      "protocol": "cosmos",
+      "url": "https://jackal.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Juno",
+      "slug": "juno",
+      "protocol": "cosmos",
+      "url": "https://juno.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Kaia",
+      "slug": "kaia",
+      "protocol": "evm",
+      "url": "https://kaia.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Kava",
+      "slug": "kava",
+      "protocol": "evm",
+      "url": "https://kava.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Linea",
+      "slug": "linea",
+      "protocol": "evm",
+      "url": "https://linea.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Mantle",
+      "slug": "mantle",
+      "protocol": "evm",
+      "url": "https://mantle.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Metis",
+      "slug": "metis",
+      "protocol": "evm",
+      "url": "https://metis.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Moonbeam",
+      "slug": "moonbeam",
+      "protocol": "evm",
+      "url": "https://moonbeam.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Moonriver",
+      "slug": "moonriver",
+      "protocol": "evm",
+      "url": "https://moonriver.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Near",
+      "slug": "near",
+      "protocol": "near",
+      "url": "https://near.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Oasys",
+      "slug": "oasys",
+      "protocol": "evm",
+      "url": "https://oasys.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "opBNB",
+      "slug": "opbnb",
+      "protocol": "evm",
+      "url": "https://opbnb.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Optimism",
+      "slug": "op",
+      "protocol": "evm",
+      "url": "https://op.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Optimism Sepolia",
+      "slug": "op-sepolia-testnet",
+      "protocol": "evm",
+      "url": "https://op-sepolia-testnet.api.pocket.network",
+      "network": "testnet"
+    },
+    {
+      "name": "Osmosis",
+      "slug": "osmosis",
+      "protocol": "cosmos",
+      "url": "https://osmosis.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Persistence",
+      "slug": "persistence",
+      "protocol": "cosmos",
+      "url": "https://persistence.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Pocket",
+      "slug": "pocket",
+      "protocol": "cosmos",
+      "url": "https://pocket.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Polygon",
+      "slug": "poly",
+      "protocol": "evm",
+      "url": "https://poly.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Polygon Amoy",
+      "slug": "poly-amoy-testnet",
+      "protocol": "evm",
+      "url": "https://poly-amoy-testnet.api.pocket.network",
+      "network": "testnet"
+    },
+    {
+      "name": "Polygon zkEVM",
+      "slug": "poly-zkevm",
+      "protocol": "evm",
+      "url": "https://poly-zkevm.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Radix",
+      "slug": "radix",
+      "protocol": "radix",
+      "url": "https://radix.api.pocket.network",
+      "network": "mainnet",
+      "status": "inactive",
+      "notes": "No active suppliers. Gateway reports json_rpc type but methods unconfirmed. Revisit when suppliers stake."
+    },
+    {
+      "name": "Router",
+      "slug": "router",
+      "protocol": "cosmos",
+      "url": "https://router.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Scroll",
+      "slug": "scroll",
+      "protocol": "evm",
+      "url": "https://scroll.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Seda",
+      "slug": "seda",
+      "protocol": "cosmos",
+      "url": "https://seda.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Sei",
+      "slug": "sei",
+      "protocol": "evm",
+      "url": "https://sei.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Shentu",
+      "slug": "shentu",
+      "protocol": "cosmos",
+      "url": "https://shentu.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Solana",
+      "slug": "solana",
+      "protocol": "solana",
+      "url": "https://solana.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Sonic",
+      "slug": "sonic",
+      "protocol": "evm",
+      "url": "https://sonic.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Stargaze",
+      "slug": "stargaze",
+      "protocol": "cosmos",
+      "url": "https://stargaze.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Sui",
+      "slug": "sui",
+      "protocol": "sui",
+      "url": "https://sui.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Taiko",
+      "slug": "taiko",
+      "protocol": "evm",
+      "url": "https://taiko.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "Tron",
+      "slug": "tron",
+      "protocol": "tron",
+      "url": "https://tron.api.pocket.network",
+      "network": "mainnet",
+      "evm_compatible": true,
+      "notes": "Gateway exposes both EVM JSON-RPC on root and native Tron REST on subpaths"
+    },
+    {
+      "name": "Unichain",
+      "slug": "unichain",
+      "protocol": "evm",
+      "url": "https://unichain.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "XRPL EVM",
+      "slug": "xrplevm",
+      "protocol": "evm",
+      "url": "https://xrplevm.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "XRPL EVM Testnet",
+      "slug": "xrplevm-testnet",
+      "protocol": "evm",
+      "url": "https://xrplevm-testnet.api.pocket.network",
+      "network": "testnet"
+    },
+    {
+      "name": "zkLink",
+      "slug": "zklink-nova",
+      "protocol": "evm",
+      "url": "https://zklink-nova.api.pocket.network",
+      "network": "mainnet"
+    },
+    {
+      "name": "zkSync",
+      "slug": "zksync-era",
+      "protocol": "evm",
+      "url": "https://zksync-era.api.pocket.network",
+      "network": "mainnet"
+    }
+  ]
+}
