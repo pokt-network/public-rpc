@@ -334,13 +334,6 @@
       "network": "mainnet"
     },
     {
-      "name": "Router",
-      "slug": "router",
-      "protocol": "cosmos",
-      "url": "https://router.api.pocket.network",
-      "network": "mainnet"
-    },
-    {
       "name": "Scroll",
       "slug": "scroll",
       "protocol": "evm",
