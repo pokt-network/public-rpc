@@ -1,7 +1,7 @@
 {
   "$schema": "./supported-chains.schema.json",
   "version": "1.0.0",
-  "updated_at": "2026-03-17",
+  "updated_at": "2026-06-15",
   "gateway_base_url": "https://api.pocket.network",
   "chains": [
     {
@@ -373,13 +373,6 @@
       "slug": "sonic",
       "protocol": "evm",
       "url": "https://sonic.api.pocket.network",
-      "network": "mainnet"
-    },
-    {
-      "name": "Stargaze",
-      "slug": "stargaze",
-      "protocol": "cosmos",
-      "url": "https://stargaze.api.pocket.network",
       "network": "mainnet"
     },
     {
