@@ -222,13 +222,6 @@
       "network": "mainnet"
     },
     {
-      "name": "Mantle",
-      "slug": "mantle",
-      "protocol": "evm",
-      "url": "https://mantle.api.pocket.network",
-      "network": "mainnet"
-    },
-    {
       "name": "Metis",
       "slug": "metis",
       "protocol": "evm",
@@ -324,13 +317,6 @@
       "slug": "poly-zkevm",
       "protocol": "evm",
       "url": "https://poly-zkevm.api.pocket.network",
-      "network": "mainnet"
-    },
-    {
-      "name": "Radix",
-      "slug": "radix",
-      "protocol": "radix",
-      "url": "https://radix.api.pocket.network",
       "network": "mainnet"
     },
     {
