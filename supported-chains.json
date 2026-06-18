@@ -1,7 +1,7 @@
 {
   "$schema": "./supported-chains.schema.json",
   "version": "1.0.0",
-  "updated_at": "2026-06-15",
+  "updated_at": "2026-06-17",
   "gateway_base_url": "https://api.pocket.network",
   "chains": [
     {
@@ -184,13 +184,6 @@
       "slug": "iotex",
       "protocol": "evm",
       "url": "https://iotex.api.pocket.network",
-      "network": "mainnet"
-    },
-    {
-      "name": "Jackal",
-      "slug": "jackal",
-      "protocol": "cosmos",
-      "url": "https://jackal.api.pocket.network",
       "network": "mainnet"
     },
     {
